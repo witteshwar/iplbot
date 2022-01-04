@@ -1,0 +1,34 @@
+{
+    "Chennai Super Kings": {
+        "short": "CSK",
+        "imageUri": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.ranklogos.com%2Fwp-content%2Fuploads%2F2013%2F07%2FChennai-Super-Kings-Logo.jpg&f=1&nofb=1"
+    },
+    "Delhi Capitals": {
+        "short": "DD",
+        "imageUri": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.betrallyindia.com%2Fwp-content%2Fuploads%2F2020%2F03%2Fdelhi-capitals-logo.jpg&f=1&nofb=1"
+    },
+    "Kings XI Punjab": {
+        "short": "KXIP",
+        "imageUri": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcricket-odds.com%2Fwp-content%2Fuploads%2F2020%2F03%2Fkings-xi-punjab-logo-png-4.png&f=1&nofb=1"
+    },
+    "Kolkata Knight Riders": {
+        "short": "KKR",
+        "imageUri": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwallpapercave.com%2Fwp%2Fwp7538750.jpg&f=1&nofb=1"
+    },
+    "Mumbai Indians": {
+        "short": "MI",
+        "imageUri": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.india.com%2Fwp-content%2Fuploads%2F2017%2F03%2Fmumbai.jpg&f=1&nofb=1"
+    },
+    "Rajasthan Royals": {
+        "short": "RR",
+        "imageUri": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn5.newsnationtv.com%2Fimages%2F2020%2F02%2F26%2Froyal-rajasthan-logo-28.jpg&f=1&nofb=1"
+    },
+    "Royal Challengers Bangalore": {
+        "short": "RCB",
+        "imageUri": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwallpapercave.com%2Fwp%2Fwp7498656.jpg&f=1&nofb=1"
+    },
+    "Sunrisers Hyderabad": {
+        "short": "SRH",
+        "imageUri": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwallpaperaccess.com%2Ffull%2F3534824.jpg&f=1&nofb=1"
+    }
+}

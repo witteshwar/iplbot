@@ -1,0 +1,70 @@
+{
+    "CardMessage": {
+        "title": "<team1> vs. <team2>",
+        "subtitle": "<winner> won by <diff>",
+        "text": "The 🏏 between <team1> and <team2> was 🏆 by <winner> by <diff><withDL>.\nThe match was played on 🗓 <date> at 🏟 <venue> in 🌇 <city> where <toss_winner> won the 🪙 and decided to <toss_decision>.\nThe man of the match was 😎 <player_of_match>."
+    },
+    "IPLStarterText": "Sure. I can help you with match information using the following parameters:",
+    "IPLStarterOptions": [
+        {
+            "type": "list",
+            "title": "Match By Date",
+            "event": {
+                "name": "match_bydate",
+                "languageCode": "en",
+                "parameters": {}
+            }
+        },
+        {
+            "type": "list",
+            "title": "Match By City",
+            "event": {
+                "name": "match_bycity",
+                "languageCode": "en",
+                "parameters": {}
+            }
+        },
+        {
+            "type": "list",
+            "title": "Match By Venue",
+            "event": {
+                "name": "match_byvenue",
+                "languageCode": "en",
+                "parameters": {}
+            }
+        },
+        {
+            "type": "list",
+            "title": "Match By Team(s)",
+            "event": {
+                "name": "match_byteam",
+                "languageCode": "en",
+                "parameters": {}
+            }
+        }
+    ],
+    "TeamPrompt": "Do you want to know all matches of a single team or matches played between two teams?",
+    "TeamOption": [
+        {
+            "type": "list",
+            "title": "Single Team",
+            "event": {
+                "name": "match_byteam_single",
+                "languageCode": "en",
+                "parameters": {}
+            }
+        },
+        {
+            "type": "list",
+            "title": "Versus",
+            "event": {
+                "name": "match_byteam_versus",
+                "languageCode": "en",
+                "parameters": {}
+            }
+        }
+    ],
+    "NoMatch": "There is no record of any match played on the queried data.",
+    "Error": "Sorry I'm currently facing an technical error.",
+    "Fallback": "Sorry I can't help you with query. Can you please try rephrasing it."
+}
